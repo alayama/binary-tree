@@ -10,7 +10,5 @@
             2          6        9
            
  Root değerimiz 4'tür.
- 7 roottan büyük olduğu için 4'ün sağına yazılır.
- 5 roottan büyük olduğu için sağına, 7den küçük olduğu içi 7'nin soluna yazılır. 
- 1 değeri roottan küçük oldupu için soluna yazılır.
- 8 değeri roottan roottan büyük olduğu için sağına, 7den büyük olduğu için 7'ninde sağına yazılır. 
+ 8 değerini ararsak, roottan büyük olduğu için sağına bakılır. 7'den de büyük olduğu için sağına bakılır.
+ 2 değerini ararsak, roottan küçük olduğu için soluna bakılır. 1'den büyük olduğu için sağına bakılır, 3'den küçük olduğu için soluna bakılır.
